@@ -22,9 +22,17 @@
 - [Telegram](https://t.me/ivankush2000)
 
 ## 🛠Языки и инструменты:
-`TestIT` `Qase.io` `Sitechko` `Postman` `JMeter` `Git` `SQL` `SOAPUI` `HTML` `CSS` `DevTools` `Charles` `PostgreSQL` `Sitechko` `Jira` `Confluence` `PyCharm` `Visual Studio Code` `Swagger` `Miro` `pgAdmin` `Yonote`
+`TestIT` `Sitechko` `Postman` `Git` `GitHub` `SQL` `HTML` `HTTP/HTTPS` `CSS` `DevTools` `PostgreSQL` `DBeaver` `Jira` `PyCharm` `Visual Studio Code` `Swagger` `Miro` `pgAdmin` `Yonote` `JSON`
 
 # Проекты 📋
 ## Проект 1: Тестирование личного кабинета для учителей Skyeng 
 
 ▶️**Описание:**
+
+В рамках развития кабинета преподавателя Skyeng был реализован новый инструмент — «Личные события», позволяющий учителям создавать в своём расписании встречи и задачи, не привязанные к ученикам платформы, что закрыло потребность в планировании собственных активностей прямо внутри рабочего календаря
+
+▶️**Цель проекта:** протестировать новую функциональность и вынести решение о готовности продукта к релизу.
+
+[_**Ссылка на тест-план**_]([https://github.com/Veron242/osnovitestirovaniya](https://1703h.yonote.ru/share/9552a3d4-9df3-4463-903d-fd414aa3556e))
+
+[_**Ссылка на отчет о тестировании**_]([[https://github.com/Veron242/osnovitestirovaniya](https://1703h.yonote.ru/share/9552a3d4-9df3-4463-903d-fd414aa3556e](https://1703h.yonote.ru/share/ee11c44b-826b-4dbb-8f69-6f9d497adb55)))
